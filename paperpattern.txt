@@ -1,0 +1,15 @@
+
+Assignment
+Group-A =	2 Questions
+Group-B	=	2 questions
+Group-C	=	2 Question
+Assignment = 3  2 questions
+
+Questions numerical values are chanegd
+Scenario are also chnages
+Question in the format of a,b,c
+
+Some questions give figures
+
+Some questions are in the descriptive form
+
